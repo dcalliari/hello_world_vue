@@ -3,6 +3,7 @@
 <template>
   <h1>Hello World!</h1>
   <ul>
+    <li>Ariel Nathan - 04156287</li>
     <li>Carlos Vinícius - 04160432</li>
     <li>Daniel Calliari – 04152374</li>
     <li>João Guilherme Cândido - 04158324</li>
